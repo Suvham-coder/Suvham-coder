@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suvham-coder
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Electrical Engineering 
 - 📫 Reach me - suvhammandal30@gmail.com
 - 😄 Pronouns: he/him
 
