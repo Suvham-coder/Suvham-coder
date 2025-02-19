@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suvham Mandal
 - 👀 I’m interested in Web Development and Cybersecurity
-- 🌱 I’m currently persueing BTech. in Electrical Engineering 
+- 🌱 I’m currently persuing BTech. in Electrical Engineering 
 - 📫 Reach me - suvhammandal30@gmail.com
 - 😄 Pronouns: he/him
 
