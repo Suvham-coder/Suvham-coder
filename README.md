@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suvham Mandal
-- 👀 I’m interested in Web Development and Cybersecurity
+- 👀 I’m interested in Cybersecurity & learning Python
 - 🌱 I’m currently persuing BTech. in Electrical Engineering 
 - 📫 Reach me - suvhammandal30@gmail.com
 - 😄 Pronouns: he/him
